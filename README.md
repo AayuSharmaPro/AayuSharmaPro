@@ -1,3 +1,5 @@
+![logo](github-header-image.png)
+
 <h1 align="center">Hi 👋, I'm Aayush Sharma</h1>
 <h3 align="center">A passionate frontend developer from Ghaziabad, India</h3>
 
