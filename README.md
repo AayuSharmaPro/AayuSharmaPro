@@ -1,4 +1,4 @@
-![Header](./your-header-image.png)
+![Header](https://github.com/AayuSharmaPro/AayuSharmaPro/blob/main/github-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Aayush Sharma</h1>
 <h3 align="center">A passionate frontend developer from Ghaziabad, India</h3>
