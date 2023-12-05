@@ -1,4 +1,4 @@
-![Header](./your-header-image-name.png)
+![Header](./your-header-image.png)
 
 <h1 align="center">Hi 👋, I'm Aayush Sharma</h1>
 <h3 align="center">A passionate frontend developer from Ghaziabad, India</h3>
